@@ -69,7 +69,7 @@ const Cover = ({ onOpen }) => {
         className="text-center p-8 border-4 border-double border-gold/30 bg-white/50 backdrop-blur-sm shadow-xl rounded-lg max-w-md mx-4"
       >
         <h1 className="font-serif text-5xl md:text-7xl text-gold mb-4 tracking-tighter">
-          50 Years
+        ∞ Years
         </h1>
         <p className="font-sans text-gray-600 tracking-widest uppercase text-sm mb-8">
           A Love Story
