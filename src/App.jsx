@@ -308,7 +308,7 @@ const Reveal = () => {
             transition={{ delay: 2.5, duration: 1 }}
             className="font-sans text-gray-500 mt-2 text-sm"
           >
-            With love, Name & SisterName
+            With love, Sahil & Khushi
           </motion.p>
         </div>
       </motion.div>
